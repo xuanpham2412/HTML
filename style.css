@@ -1,0 +1,9 @@
+h1,
+h2,
+h3 {
+  color: aqua;
+  font-weight: 300;
+  font-size: larger;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  height: 200;
+}
